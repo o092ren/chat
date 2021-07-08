@@ -13,4 +13,3 @@ const socketio = io();
       li.append(msg);
       chats.append(li);
     });
-    
